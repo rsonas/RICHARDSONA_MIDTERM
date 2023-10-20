@@ -1,0 +1,35 @@
+/*
+    Aislinn Richardson
+    301146892
+    App.css
+    10/19/23
+*/
+
+title {
+    margin: auto;
+    text-align: center;
+}
+
+#contents {
+    text-align: center;
+    margin: auto;
+}
+
+#form {
+    margin: auto;
+    text-align:center;
+    display:flex;
+    justify-content: center;
+}
+
+#formContent {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px 0;
+    line-height: 2;
+}
+
+#buttons {
+    display:flex;
+    justify-content: space-evenly;
+}
